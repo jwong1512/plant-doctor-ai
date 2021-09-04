@@ -1,0 +1,153 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "givenNames": "Jason",
+      "lastName": "Wong",
+      "email": "hello@hello.com",
+      "mobileNumber": "96986986",
+      "business": "NAB",
+      "password": "jasonwong",
+      "confirmpassword": "jasonwong"
+    },
+    {
+      "givenNames": "Peter",
+      "lastName": "Parker",
+      "email": "peterparker@marvel.com",
+      "mobileNumber": "5464616464",
+      "business": "Marvel",
+      "password": "spiderman",
+      "confirmpassword": "spiderman",
+      "id": 2
+    },
+    {
+      "givenNames": "rocket",
+      "lastName": "man",
+      "email": "rocketman@rockets.com",
+      "mobileNumber": "657564",
+      "business": "Rocket Stuff",
+      "password": "rockets",
+      "confirmpassword": "rockets",
+      "id": 3
+    },
+    {
+      "givenNames": "jon",
+      "lastName": "snow",
+      "email": "jonsnow@targaryen.com",
+      "mobileNumber": "6547354343",
+      "business": "Game Of Thrones",
+      "password": "jonsnow",
+      "confirmpassword": "jonsnow",
+      "id": 4
+    },
+    {
+      "givenNames": "Tony",
+      "lastName": "Stark",
+      "email": "tonystark@ironman.com",
+      "mobileNumber": "43274575774",
+      "business": "Marvel",
+      "password": "mcu",
+      "confirmpassword": "mcu",
+      "id": 5
+    },
+    {
+      "givenNames": "Bruce",
+      "lastName": "Wayne",
+      "email": "batman@dcu.com",
+      "mobileNumber": "43735757",
+      "business": "Justice League",
+      "password": "justiceleague",
+      "confirmpassword": "justiceleague",
+      "id": 6
+    },
+    {
+      "givenNames": "Clark",
+      "lastName": "Kent",
+      "email": "superman@justiceleague.com",
+      "mobileNumber": "5777237247",
+      "business": "Justice League",
+      "password": "superman",
+      "confirmpassword": "superman",
+      "id": 7
+    },
+    {
+      "givenNames": "San",
+      "lastName": "Shibu",
+      "email": "sanshibu@whatever.com",
+      "mobileNumber": "34957239457349",
+      "business": "Student",
+      "password": "sanshibu",
+      "confirmpassword": "sanshibu",
+      "id": 8
+    },
+    {
+      "givenNames": "Quan",
+      "lastName": "Dang",
+      "email": "asdgasdfg@fa;sgjasg.com",
+      "mobileNumber": "9790696",
+      "business": "",
+      "password": "quandang",
+      "confirmpassword": "quandang",
+      "id": 9
+    },
+    {
+      "givenNames": "Lex",
+      "lastName": "Luthor",
+      "email": "asdgsdfg@gsajgdjf.com",
+      "mobileNumber": "9868796",
+      "business": "",
+      "password": "lexluthor",
+      "confirmpassword": "lexluthor",
+      "id": 10
+    }
+  ],
+  "admins": [
+    {
+      "givenNames": "Jason",
+      "lastName": "Wong",
+      "email": "wongkj.11@gmail.com",
+      "mobileNumber": "0450614499",
+      "password": "HelloWorld",
+      "confirmpassword": "HelloWorld",
+      "id": 1
+    },
+    {
+      "givenNames": "Robert",
+      "lastName": "Baratheon",
+      "email": "robertbaratheon@stormlands.com",
+      "mobileNumber": "73477757687",
+      "password": "baratheon",
+      "confirmpassword": "baratheon",
+      "id": 2
+    },
+    {
+      "givenNames": "Joffrey",
+      "lastName": "Baratheon",
+      "email": "joffreybaratheon@lannister.com",
+      "mobileNumber": "6757343243",
+      "password": "lannister",
+      "confirmpassword": "lannister",
+      "id": 3
+    },
+    {
+      "givenNames": "Diana",
+      "lastName": "Prince",
+      "email": "wonderwoman@justiceleague.com",
+      "mobileNumber": "5722424242",
+      "password": "wonderwoman",
+      "confirmpassword": "wonderwoman",
+      "id": 4
+    }
+  ],
+  "plants": [
+    {
+      "id": 1,
+      "plantName": "roses",
+      "disease": "being pretty",
+      "cure": "nothing",
+      "age": 2,
+      "height": 40,
+      "details": "This is just random text. Roses are read violets are blue, hello there to all of you."
+    }
+  ]
+}

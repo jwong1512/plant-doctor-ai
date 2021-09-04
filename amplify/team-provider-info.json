@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-plantdoctorai-dev-170315-authRole",
+      "UnauthRoleArn": "arn:aws:iam::230916033385:role/amplify-plantdoctorai-dev-170315-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::230916033385:role/amplify-plantdoctorai-dev-170315-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-plantdoctorai-dev-170315-deployment",
+      "UnauthRoleName": "amplify-plantdoctorai-dev-170315-unauthRole",
+      "StackName": "amplify-plantdoctorai-dev-170315",
+      "StackId": "arn:aws:cloudformation:us-east-1:230916033385:stack/amplify-plantdoctorai-dev-170315/91855490-e928-11eb-a263-0e9182e4a795",
+      "AmplifyAppId": "d3kqllii86xs7h"
+    },
+    "categories": {
+      "auth": {
+        "plantdoctorai13c04fe4": {}
+      }
+    }
+  }
+}

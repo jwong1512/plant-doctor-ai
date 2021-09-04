@@ -1,0 +1,38 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-plantdoctorai-dev-170315-authRole",
+      "UnauthRoleArn": "arn:aws:iam::230916033385:role/amplify-plantdoctorai-dev-170315-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::230916033385:role/amplify-plantdoctorai-dev-170315-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-plantdoctorai-dev-170315-deployment",
+      "UnauthRoleName": "amplify-plantdoctorai-dev-170315-unauthRole",
+      "StackName": "amplify-plantdoctorai-dev-170315",
+      "StackId": "arn:aws:cloudformation:us-east-1:230916033385:stack/amplify-plantdoctorai-dev-170315/91855490-e928-11eb-a263-0e9182e4a795",
+      "AmplifyAppId": "d3kqllii86xs7h"
+    }
+  },
+  "auth": {
+    "plantdoctorai13c04fe4": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false,
+      "providerMetadata": {
+        "s3TemplateURL": "https://s3.amazonaws.com/amplify-plantdoctorai-dev-170315-deployment/amplify-cfn-templates/auth/plantdoctorai13c04fe4-cloudformation-template.yml",
+        "logicalId": "authplantdoctorai13c04fe4"
+      },
+      "lastPushTimeStamp": "2021-07-20T08:53:53.961Z",
+      "output": {
+        "UserPoolId": "us-east-1_RhEO8a1eE",
+        "AppClientIDWeb": "16i9mtdu9ib9vls4c7hfs2nuel",
+        "AppClientID": "7jltmsf49dljghfk7u151i4gbe",
+        "IdentityPoolId": "us-east-1:17152c0a-12e0-41e3-b683-ab663af426aa",
+        "UserPoolArn": "arn:aws:cognito-idp:us-east-1:230916033385:userpool/us-east-1_RhEO8a1eE",
+        "IdentityPoolName": "plantdoctorai13c04fe4_identitypool_13c04fe4__dev",
+        "UserPoolName": "plantdoctorai13c04fe4_userpool_13c04fe4"
+      },
+      "lastPushDirHash": "ZtYvMNo2rm6UWBI1zYo1O6HoVCA="
+    }
+  }
+}
