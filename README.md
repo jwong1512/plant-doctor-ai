@@ -77,4 +77,4 @@ Your default web browser should pop-up and you will be automatically navigated t
 This is the URL that your web server will serve your web pages.
 &nbsp;  
 &nbsp;  
-![Plant Doctor AI Login](https://wongkj11-readme-images.s3.amazonaws.com/plant-doctor-ai-login.jpeg)
+![Plant Doctor AI Login Page](https://wongkj11-readme-images.s3.amazonaws.com/plant-doctor-ai-login.jpeg)
