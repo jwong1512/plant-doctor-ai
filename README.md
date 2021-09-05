@@ -5,8 +5,11 @@ It accomplishes this through the use of *Convolutional Neural Networks* used in 
 ---
 
 &nbsp;  
-To access the site navigate to [plantdoctorai.com](plantdoctorai.com).
+To access the site navigate to:
 &nbsp;  
+&nbsp;  
+[plantdoctorai.com](plantdoctorai.com)
+### _**plantdoctorai.com**_
 &nbsp;  
 This project was built using the following technologies:
 - ReactJS
@@ -29,5 +32,8 @@ This project was built using the following technologies:
 
 ## Install and Run application LOCALLY
 &nbsp;  
-### STEP ONE: Use Git to clone this repository on your local machine.
-![dotCMS logo](//dotcms.com/img/logo.png)
+### STEP ONE: 
+Use Git to clone this repository on your local machine.
+&nbsp;  
+&nbsp;  
+![Clone Git Repo](https://wongkj11-readme-images.s3.amazonaws.com/clone-git-repo.jpeg)
