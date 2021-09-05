@@ -5,7 +5,7 @@ It accomplishes this through the use of *Convolutional Neural Networks* used in 
 ---
 
 &nbsp;  
-To access the site navigate to [plantdoctorai.com](plantdoctorai.com)
+To access the site navigate to [plantdoctorai.com](plantdoctorai.com).
 &nbsp;  
 &nbsp;  
 This project was built using the following technologies:
